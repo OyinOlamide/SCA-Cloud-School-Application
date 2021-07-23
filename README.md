@@ -9,6 +9,7 @@ Application for She Code Africa Cloud School, Cohort 2.
 * Ran the image on Docker using: `sudo docker run -p 5005:3030 -d oyinola/she-code-africa-cloud-school-application:latest`
 * Pushed the image into Dockerhub using: `docker push oyinola/she-code-africa-cloud-school-application:latest`
 
+
 * PS: Made a little mistake so updated `this is THE first assessment` to `this is MY first assessment`
 
 # DOCKERHUB LINK
